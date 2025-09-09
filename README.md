@@ -218,7 +218,7 @@ plt.savefig("engaged_vs_non_engaged_session.png", dpi=2000, bbox_inches="tight")
 # Step 7: Display the plot
 plt.show()
 ```
-![engagement rate distribution by channel](https://github.com/Rutvik1429/Website-Performance-Analysis-EDA-Python-Project/blob/main/Visual%20plot/Engagement_Rate_Distribuation_By_Channel.png)
+![engaged vs non engaged session](https://github.com/Rutvik1429/Website-Performance-Analysis-EDA-Python-Project/blob/main/Visual%20plot/Engaged_VS_Non_Engaged_Session.png)
 ### Insights for This visual
 - **Organic Social**
 - Has the highest number of engaged sessions among all channels, indicating that social traffic is actively interacting with content.
